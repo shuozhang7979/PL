@@ -1,0 +1,21 @@
+program aaa;
+type
+    a = class
+    public
+var aaa : integer;
+    bbb : integer;
+procedure fu(ts, ty : integer);virtual;
+end;
+var num : integer;
+    sum : integer;
+
+procedure a_fu(ts, ty : integer);override;
+begin
+    ts = ty;
+end;
+begin
+    if 4 <> 5 then
+    sum = a else
+     if 4 <> 5 then sum = b end
+     end;
+end.
